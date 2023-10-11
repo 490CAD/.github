@@ -4,7 +4,7 @@ Our team has three memebrs now: [Nan Wang](https://github.com/BigCiLeng), [Xiaow
 
 ## News
 
-- [2023.08] We are now taking part in [LLM Science Exam](https://www.kaggle.com/competitions/kaggle-llm-science-exam?rvi=1).
+- [2023.08] We have goaled public Score 0.911, Private Score 0.905, rk 93/2745, Sliver Medal, Top 4% at [LLM Science Exam](https://www.kaggle.com/competitions/kaggle-llm-science-exam?rvi=1). [code](https://github.com/490CAD/LLM4Science)
 
 - [2023.05] We have goaled Public Score 0.58145, Private Score 0.57859, rk 237/1231 at [Stable Diffusion - Image to Prompts](https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts/overview). [code](https://github.com/490CAD/ImagetoPrompts)
 
